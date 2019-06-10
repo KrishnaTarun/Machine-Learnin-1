@@ -32,11 +32,13 @@ __KeyWords__: Polynomial Regression, Regularization, k-Fold cross validation, Ba
   
   <p align="center">
   <img src="fig/fig3.png" width="500" /><br />
-  <i>Manifold learned by the VAE</i>
+  <i>Gaussian Process Regression</i>
   <br />
   <br />
   <img src="fig/fig4.png" width="500" /><br />
-  <i>Interpolation results from GAN </i>
+  <i>Finding Support Vectors</i>
 </p>
 
+## Homework Assignments
+[Problem and Solutions ](ml_hw/)
 
